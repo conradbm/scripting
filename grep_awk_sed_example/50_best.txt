@@ -1,0 +1,844 @@
+<div class="time100-collection-body clearfix">
+		<div class="time100-collection-grid">
+		<a href="http://time.com/money/collection-post/4480692/columbia-maryland/">
+			<div class="time100-collection-grid__tile">
+				<div class="time100-play-icon" style="border-color:#02659b">
+					<div style="border-left-color:#02659b"></div>
+				</div>
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>1. Columbia, Md.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/160914_bpl_top50_02columbia.jpg?quality=85&amp;amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480710/eden-prairie-minnesota/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>2. Eden Prairie, Minn.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/160914_bpl_top50_02edenprairie.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480715/plano-texas/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>3. Plano, Texas</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_03plano.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480717/west-des-moines-iowa/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>4. West Des Moines, Iowa</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_04westdesmoines.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480721/parsippany-troy-hills-new-jersey/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>5. Parsippany-Troy Hills, N.J.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_05parsippany.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480734/highlands-ranch-colorado/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>6. Highlands Ranch, Colo.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_06highlandsranch.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480741/clarkstown-new-york/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>7. Clarkstown, N.Y.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_07clarkstown.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480744/weston-florida/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>8. Weston, Fla.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_08weston.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480749/beaverton-oregon/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>9. Beaverton, Ore.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_09beaverton.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480752/naperville-illinois/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>10. Naperville, Ill.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_10naperville.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468978/woodbury-minnesota/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>11. Woodbury, Minn.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_11woodbury.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468962/pflugerville-texas/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>12. Pflugerville, Tex.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_12pflugerville.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468980/centennial-colorado/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>13. Centennial, Colo.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_13centennial.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468967/sammamish-washington/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>14. Sammamish, Wash.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_14sammamish.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468981/west-hartford-connecticut/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>15. West Hartford, Conn.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_15westhartford.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468982/nashua-new-hampshire/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>16. Nashua, N.H.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_16nashua.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468983/eastvale-california/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>17. Eastvale, Calif.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_17eastvale.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468986/euless-texas/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>18. Euless, Tex.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_18euless.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468987/edison-new-jersey/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>19. Edison, N.J.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_19edison.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468988/irvine-california/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>20. Irvine, Calif.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_20irvine.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468990/san-ramon-california/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>21. San Ramon, Calif.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_21sanramon.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468996/ashburn-virginia/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>22. Ashburn, Va.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_22ashburn.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468998/franklin-new-jersey/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>23. Franklin, N.J.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_23franklin.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4468999/appleton-wisconsin/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>24. Appleton, Wisc.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_24appleton.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469001/broomfield-colorado/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>25. Broomfield, Colo.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_25broomfield.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469008/cherry-hill-new-jersey/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>26. Cherry Hill, N.J.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_26cherryhill.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469010/hoffman-estates-illinois/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>27. Hoffman Estates, Ill.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_27hoffmanestates.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469014/hunter-mill-virginia/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>28. Hunter Mill, Va.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_28huntermill.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469015/overland-park-kansas/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>29. Overland Park, Kan.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_29overlandpark.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469018/fishers-indiana/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>30. Fishers, Ind.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_30fishers.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469023/newton-massachusetts/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>31. Newton, Mass.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_31newton.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469026/novi-michigan/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>32. Novi, Mich.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="http://i0.wp.com/timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_32novi.jpg?crop=710px%2C0px%2C1390px%2C1390px&amp;resize=600%2C600&amp;quality=85&amp;strip&amp;ssl=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480818/koolaupoko-hawaii/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>33. Koolaupoko, Hawaii</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_33koolaupoko.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469029/oyster-bay-new-york/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>34. Oyster Bay, N.Y.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_34oysterbay.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469032/sioux-falls-south-dakota/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>35. Sioux Falls, S.D.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_35siouxfalls.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469037/wellington-florida/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>36. Wellington, Fla.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_36wellington.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469039/cary-north-carolina/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>37. Cary, N.C.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_37cary.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4487663/hamden-connecticut/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>38. Hamden, Conn.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_38camden.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469045/huntington-new-york/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>39. Huntington, N.Y.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_39huntington.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469047/greenwich-connecticut/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>40. Greenwich, Conn.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_40greenwich.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469035/levittown-pennsylvania/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>41. Levittown, Pa.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_41levittown.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469051/matoaca-virginia/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>42. Matoaca, Va.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_42matoaca.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4469052/lees-summit-missouri/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>43. Lee’s Summit, Mo.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_43leessummit.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480826/spring-texas/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>44. Spring, Texas</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_44spring.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480827/central-pasco-florida/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>45. Central Pasco, Fla.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_45centralpasco.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480830/fremont-california/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>46. Fremont, Calif.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_46fremont_edit.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4488667/ames-iowa/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>47. Ames, Iowa</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_47ames.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480831/edmond-oklahoma/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>48. Edmond, Okla.</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_48edmund.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480833/west-chester-ohio/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>49. West Chester, Ohio</span>
+
+
+
+
+					</div>
+				</div>
+				<figure class="grid-tile__background">
+					<img src="https://timedotcom.files.wordpress.com/2016/09/161409_bpl_top50_49westchester.jpg?quality=85&amp;w=600&amp;h=600&amp;crop=1">
+				</figure>
+			</div>
+		</a>
+		<a href="http://time.com/money/collection-post/4480834/scottsdale-arizona/">
+			<div class="time100-collection-grid__tile">
+
+				<div class="grid-tile__title">
+					<div class="grid-tile__title-wrapper">
+						<span>50. Scottsdale, Ariz.</span>
