@@ -1,0 +1,6 @@
+cd ~/[your_github_repo_folder_you_previously_cloned]
+# blah blah make your changes in your folder, add, remove, delete, ect..
+git add .
+git commit -m "committ msg"
+git push origin [your_branch_name] OR [master]
+

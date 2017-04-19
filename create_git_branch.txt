@@ -1,0 +1,5 @@
+# Create a branch on some github repo
+
+git clone [your_github_repo_master]
+cd ~/[your_github_repo_master]
+git checkout -b [name_of_your_new_branch]
