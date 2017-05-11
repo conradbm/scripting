@@ -7,12 +7,13 @@
 ### Usage: bash read-file.sh yourFile.csv
 #######################################################################################
 
-###
-
-###
+##########################################################
+### Create and return a dataframe-like object
+##########################################################
 createDataFrame() {
-
-
+    echo "*************************************"
+    echo "******** Creating Data Frame ********"
+    echo "*************************************"
     ##########################################################
     ### Get Command Line Arguments
     ##########################################################
@@ -22,7 +23,6 @@ createDataFrame() {
     ### Get the number of samples
     ##########################################################
     num_samples=$(cat $file | wc -l)
-    echo
     echo "Number of Samples: " $num_samples
     
     ##########################################################
@@ -72,15 +72,15 @@ createDataFrame() {
         done
         #echo ${col_container[*]}
         row_container[$row_count]=${col_container[*]}
-        echo ${row_container[$row_count]}
-        row_count=$((outter_count + 1))
+        #echo ${row_container[$row_count]}
+        row_count=$((row_count + 1))
     done
     ######################################################################################
     ### PRO-TIP: Parameter Expansion
     ### This allows for you to slice like in Python
     ### http://stackoverflow.com/questions/1335815/how-to-slice-an-array-in-bash
     ######################################################################################
-    return row_container
+    echo ${row_container[*][1]}
 }
 
 DEFAULT=default                             # Default param value.
