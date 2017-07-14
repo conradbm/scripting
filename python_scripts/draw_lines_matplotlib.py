@@ -1,3 +1,5 @@
+# Resource Location: https://stackoverflow.com/questions/28143546/using-matplotlib-and-numpy-is-there-a-way-to-find-all-line-intersections-for-li
+
 x= arange(-3,10.1,0.1)
 y= arange(-3,10.1,0.1)
 y1= 0.4*x-2.0
