@@ -17,7 +17,5 @@ plot(x,y1,color='b')
 plot(x,y2,color='r')
 legend(['2x-5y=10','x+2y=8'])
 
-x= [0.0, 0.0, 6.67,5.0]
-y= [0.0, 4.0, .67, 0.0]
-fill(x,y)
-show()
+bottom = np.maximum(y1, 0)
+fill_between(x, bottom, y2, where=(x>0) & (y2>y1))
